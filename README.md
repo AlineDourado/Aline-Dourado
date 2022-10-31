@@ -24,8 +24,8 @@ Atuo na área da saúde como técnica de enfermagem há 5 anos e sou fascinada p
 </div>
 
   ## 🤓 Estudando:
-  - ReactJS
-  - Sass
+  - React JS
+  - SASS
 
   ## 🔬 Ferramentas:
   

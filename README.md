@@ -8,7 +8,7 @@ Atuo na área da saúde como técnica de enfermagem há 5 anos e sou fascinada p
 
 - 🔭 Atualmente tenho estudado na plataforma <a href="https://www.alura.com.br" target="_blank">Alura</a>;
 - 🌱 Aprendendo um pouco sobre UX/UI Design;
-- 🎓 Participante do projeto desenvolve do Grupo Boticário com formação em Full Stacks;
+- 🎓 Participante da 2ª edição do <spam>Projeto Desenvolve<spam> realizado pelo Grupo Boticário com formação em Full Stacks;
 
 <br />
 
